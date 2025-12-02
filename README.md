@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Eduardo Souza Guimarães  
 
-🎓 Computer Engineering student at **Federal University of Sergipe (UFS)**  
-💻 Currently learning and building projects with:  
+Computer Engineering student at **Federal University of Sergipe (UFS)**  
+Currently learning and building projects with:  
 
 ## 🚀 Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)  
